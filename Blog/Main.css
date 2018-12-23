@@ -125,7 +125,9 @@ ul {
 	color:mediumturquoise;
 }
 
-
+ol {
+	text-align: center;
+}
 .dropbtn {
     background-color:antiquewhite;
     color: black;
